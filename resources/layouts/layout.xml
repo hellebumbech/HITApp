@@ -1,0 +1,13 @@
+<layout id="MainLayout">
+
+	<label id="initial" x="center" y="center" text="@Strings.InitialText" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+
+	<label id="RoundName" x="center" y="7" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+	<label id="RoundTime" x="center" y="30" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_TINY"/>
+
+	<label id="WorkoutDone" x="center" y="40" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	
+	<label id="ExerciseName" x="center" y="103" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE"/>
+	<label id="ExerciseTime" x="center" y="128" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_NUMBER_MEDIUM"/>
+
+</layout>

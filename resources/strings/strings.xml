@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">HIT</string>
+    <string id="InitialText">Start workout</string>
+    <string id="done">Workout done!</string>
+    <string id="exerciseplan">Warm up;Loeb;0.5;Sjip;0.5;Jacks;0.5;Ski;0.5;Twist;0.5;Loeb;0.5;Sjip;0.5;Jacks;0.5;Ski;0.5;Twist;0.5;Squats;0.25;Mountain climb;0.25;Planke;0.25;Armboejninger;0.25;Loeb;0.5;Spurt;0.5/Pause;Drik vand;1/Pulspas 1;Burpees;1;Jumping lunges;1;Atomic situps;1;Burpees;1;Jumping lunges;1;Atomic situps;1/Pause;Drik vand;0.5;Find vaegte frem;1.5/Styrkepas 1;Stivbenet doedloeft;1;Overhead squats;1;Lunges venstre;0.5;Lunges hoejre;0.5;Skulderpres;1;Rows;1/Pause;Drik vand;0.5;Bounce;0.5/Pulspas 2;Mountain climb;0.65;Bounce;0.35;Burpees;0.65;Bounce;0.35;Jumping jacks;0.65;Bounce;0.35;Englehop;0.65;Bounce;0.35;Spurt;0.65;Bounce;0.35/Pause;Drik vand;1;Find vaegte frem;1/Styrkepas 2;Lumber jacks;1;Doedloeft + upright rows;1;Back flyes;1;Biceps curls;1;Armboejninger;1;Planke;1/Pause;Drik vand;1/Pulspas 3;Burpees;1;Jumping lunges;1;Atomic situps;1;Burpees;1;Jumping lunges;1;Atomic situps;1/Pause;Drik vand;1;Find maatte frem;1/Styrkepas 3;Russian twist;1;Cykling;1;Ryghaevninger;1;Benloeft;1;Pulse;1;Sideplanke hoejre;0.5;Sideplanke venstre;0.5/Straek ud;Straek ud;5/</string>
+</strings>
