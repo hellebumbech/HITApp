@@ -4,6 +4,9 @@ using Toybox.Attention as Attn;
 using Toybox.Timer as Timer;
 using Toybox.Time.Gregorian as Cal;
 using Workout;
+using Toybox.ActivityRecording as Record;
+
+var session = null;
 
 class HitAppForerunnerView extends Ui.View {
 
@@ -12,6 +15,8 @@ class HitAppForerunnerView extends Ui.View {
 	// timers
 	var countdown; // countdown timer - counting down the exercise time
 	var catTimer; // timer to animate cat
+	
+	var countdownStopped = false;
 	
 	// changeable values
 	var i; // to hold roundnumber
@@ -29,9 +34,9 @@ class HitAppForerunnerView extends Ui.View {
 	var catgifpause1;
 	var catgifpause2;
 	var catgifpause3;
-	var donegif;
 
     function initialize() {
+	    
         View.initialize();
         
         var plan = Ui.loadResource(Rez.Strings.exerciseplan);
@@ -53,7 +58,6 @@ class HitAppForerunnerView extends Ui.View {
         catgifpause1 = Ui.loadResource(Rez.Drawables.MotivatorCatPause_1);
         catgifpause2 = Ui.loadResource(Rez.Drawables.MotivatorCatPause_2);
         catgifpause3 = Ui.loadResource(Rez.Drawables.MotivatorCatPause_3);
-        donegif = Ui.loadResource(Rez.Drawables.Star);
     }
 
     // Load your resources here
@@ -73,7 +77,9 @@ class HitAppForerunnerView extends Ui.View {
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
         var bitmapInfo = getBitmapInfo();
-        dc.drawBitmap(bitmapInfo[0], bitmapInfo[1], bitmapInfo[2]);
+        if(bitmapInfo) {
+        	dc.drawBitmap(bitmapInfo[0], bitmapInfo[1], bitmapInfo[2]);
+        }
     }
     
     // Called when this View is removed from the screen. Save the
@@ -96,7 +102,6 @@ class HitAppForerunnerView extends Ui.View {
 		me.catgifpause1 = null;
 		me.catgifpause2 = null;
 		me.catgifpause3 = null;
-		me.donegif = null;
     }
     
     function startWorkout() {
@@ -104,18 +109,23 @@ class HitAppForerunnerView extends Ui.View {
     	setRoundFacts();
     	startTimers();
     	Attn.playTone(1); // start tone
+    	startRecording();
     	requestUpdate();
     }
     
     function startTimers() {
     	countdown.start(method(:updateCountdown), 1000, true);
     	catTimer.start(method(:updateCatgif), 100, true);
+    	countdownStopped = false;
     }
     
     function stopTimers() {
-    	countdown.stop();
-    	catTimer.stop();
-    }
+    	if(!countdownStopped) {
+	    	countdown.stop();
+	    	catTimer.stop();
+	    }
+	    countdownStopped = true;
+	}
     
     function updateCountdown() {
 	    if(workout[i].exercises[j].timeRemaining == 0) { // current exercise is done - start the next
@@ -158,9 +168,10 @@ class HitAppForerunnerView extends Ui.View {
     
     function finish() {
 	    clearView();
-	    View.findDrawableById("WorkoutDone").setText(Rez.Strings.done);
+	    //View.findDrawableById("WorkoutDone").setText(Rez.Strings.done);
 	    Attn.playTone(2); // stop tone
-	    requestUpdate();
+	    stopRecording(true);
+	    pushView(new Rez.Menus.ExitMenu(), new HitAppForerunnerMenuDelegate(me), Ui.SLIDE_UP);
     }
 
     function updateRound() {
@@ -205,8 +216,8 @@ class HitAppForerunnerView extends Ui.View {
     }
     
     function getBitmapInfo() {
-    	if(i == workout.size()) { // workout is done
-        	return [60, 70, donegif];
+    	if(i == workout.size() || i == null) { // workout is done
+        	return false;
         }
         else if(workout[i].pause) { // show pause cat
         	var pausecat = catgifpause1;
@@ -232,5 +243,28 @@ class HitAppForerunnerView extends Ui.View {
 	        }
 	        return [catXpos, catYpos, catgif];
         }
+    }
+    
+    
+    function startRecording() {
+        if( Toybox has :ActivityRecording && (( session == null ) || ( session.isRecording() == false ))) {
+            session = Record.createSession({:name=>"HIT", :sport=>Record.SPORT_TRAINING, :subSport=>Record.SUB_SPORT_CARDIO_TRAINING});
+            session.start();
+        }
+        return true;
+    }
+    
+    function stopRecording(save) {
+	    if( Toybox has :ActivityRecording && (( session != null ) && session.isRecording())) {
+			session.stop();
+			if(save) {
+				session.save();
+			}
+			else {
+				session.discard();
+			}
+	        session = null;
+	    }
+	    return true;	
     }
 }

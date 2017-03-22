@@ -1,5 +1,5 @@
 <drawables>
-    <bitmap id="LauncherIcon" filename="launcher_icon.png"/>
+    <bitmap id="LauncherIcon" filename="ico_v2_40.gif"/>
 	<bitmap id="MotivatorCat" filename="motivatorcat.gif" />
 	<bitmap id="MotivatorCat_1" filename="motivatorcat_1.gif" />
 	<bitmap id="MotivatorCat_2" filename="motivatorcat_2.gif" />

@@ -3,16 +3,24 @@ using Toybox.System as Sys;
 
 class HitAppForerunnerMenuDelegate extends Ui.MenuInputDelegate {
 
-    function initialize() {
+    hidden var view;
+
+    function initialize(view) {
         MenuInputDelegate.initialize();
+        me.view = view;
     }
 
     function onMenuItem(item) {
-        if (item == :item_1) {
-            Sys.println("item 1");
-        } else if (item == :item_2) {
-            Sys.println("item 2");
+    	Sys.println("item er: " + item);
+        if (item == :SaveActivity) {
+            Sys.println("Save activity");
+            view.stopRecording(true);
+           	pushView(new Rez.Menus.SavedMenu(), new HitAppForerunnerMenuDelegate(view), Ui.SLIDE_UP);
+            
+        } else if (item == :ExitApp) {
+            Sys.println("Exit app");
+	    	Ui.popView(Ui.SLIDE_IMMEDIATE);
+	    	Ui.popView(Ui.SLIDE_IMMEDIATE);
         }
     }
-
 }

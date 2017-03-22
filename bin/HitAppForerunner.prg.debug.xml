@@ -1,338 +1,372 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="13" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="14" pc="268435460" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="15" pc="268435470" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="16" pc="268435480" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="17" pc="268435487" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="18" pc="268435511" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="20" pc="268435540" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="21" pc="268435550" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="22" pc="268435578" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="25" pc="268435591" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="37" pc="268435602" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="38" pc="268435606" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="39" pc="268435616" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="40" pc="268435626" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="44" pc="268435643" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="45" pc="268435647" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="46" pc="268435671" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="47" pc="268435678" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="48" pc="268435686" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="49" pc="268435706" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="50" pc="268435721" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="51" pc="268435741" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="53" pc="268435773" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="56" pc="268435777" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="57" pc="268435781" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="58" pc="268435812" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="59" pc="268435825" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="60" pc="268435856" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="61" pc="268435882" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="62" pc="268435890" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="63" pc="268435909" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="64" pc="268435909" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="65" pc="268435909" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="67" pc="268435917" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="69" pc="268435948" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="70" pc="268435974" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="71" pc="268435981" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="72" pc="268435997" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="75" pc="268436031" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="77" pc="268436051" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="78" pc="268436098" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="79" pc="268436132" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="81" pc="268436161" symbol="setRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="84" pc="268436213" symbol="resetString"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="85" pc="268436217" symbol="resetString"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="88" pc="268436249" symbol="nextSemiColon"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="89" pc="268436253" symbol="nextSemiColon"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="92" pc="268436280" symbol="nextSlash"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/Workout.mc" lineNum="93" pc="268436284" symbol="nextSlash"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="34" pc="268436311" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="35" pc="268436315" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="37" pc="268436333" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="38" pc="268436370" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="39" pc="268436395" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="40" pc="268436429" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="42" pc="268436463" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="43" pc="268436476" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="44" pc="268436489" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="45" pc="268436502" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="46" pc="268436515" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="47" pc="268436528" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="49" pc="268436541" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="50" pc="268436584" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="51" pc="268436627" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="52" pc="268436670" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="53" pc="268436713" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="54" pc="268436756" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="55" pc="268436799" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="56" pc="268436842" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="60" pc="268436886" symbol="onLayout"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="61" pc="268436890" symbol="onLayout"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="67" pc="268436928" symbol="onShow"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="72" pc="268436933" symbol="onUpdate"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="74" pc="268436937" symbol="onUpdate"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="75" pc="268436957" symbol="onUpdate"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="76" pc="268436970" symbol="onUpdate"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="82" pc="268437007" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="83" pc="268437011" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="84" pc="268437023" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="85" pc="268437032" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="86" pc="268437041" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="87" pc="268437050" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="88" pc="268437059" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="89" pc="268437068" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="90" pc="268437077" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="91" pc="268437086" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="92" pc="268437095" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="93" pc="268437104" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="94" pc="268437113" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="95" pc="268437122" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="96" pc="268437131" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="97" pc="268437140" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="98" pc="268437149" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="99" pc="268437158" symbol="onHide"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="102" pc="268437168" symbol="startWorkout"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="103" pc="268437172" symbol="startWorkout"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="104" pc="268437209" symbol="startWorkout"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="105" pc="268437221" symbol="startWorkout"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="106" pc="268437233" symbol="startWorkout"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="107" pc="268437254" symbol="startWorkout"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="110" pc="268437267" symbol="startTimers"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="111" pc="268437271" symbol="startTimers"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="112" pc="268437312" symbol="startTimers"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="115" pc="268437354" symbol="stopTimers"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="116" pc="268437358" symbol="stopTimers"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="117" pc="268437376" symbol="stopTimers"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="120" pc="268437395" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="121" pc="268437399" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="122" pc="268437446" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="123" pc="268437458" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="125" pc="268437527" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="126" pc="268437571" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="127" pc="268437583" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="129" pc="268437652" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="130" pc="268437681" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="131" pc="268437693" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="134" pc="268437755" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="135" pc="268437837" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="136" pc="268437897" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="138" pc="268437934" symbol="updateCountdown"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="141" pc="268437947" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="142" pc="268437951" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="143" pc="268437970" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="144" pc="268437992" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="145" pc="268438009" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="147" pc="268438025" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="148" pc="268438042" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="150" pc="268438058" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="151" pc="268438075" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="153" pc="268438091" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="154" pc="268438108" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="156" pc="268438130" symbol="updateCatgif"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="159" pc="268438143" symbol="finish"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="160" pc="268438147" symbol="finish"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="161" pc="268438159" symbol="finish"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="162" pc="268438211" symbol="finish"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="163" pc="268438232" symbol="finish"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="166" pc="268438245" symbol="updateRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="167" pc="268438249" symbol="updateRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="168" pc="268438268" symbol="updateRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="169" pc="268438281" symbol="updateRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="170" pc="268438310" symbol="updateRound"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="174" pc="268438326" symbol="updateExercise"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="175" pc="268438330" symbol="updateExercise"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="176" pc="268438349" symbol="updateExercise"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="177" pc="268438393" symbol="updateExercise"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="181" pc="268438409" symbol="setRoundFacts"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="182" pc="268438413" symbol="setRoundFacts"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="183" pc="268438468" symbol="setRoundFacts"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="184" pc="268438519" symbol="setRoundFacts"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="185" pc="268438559" symbol="setRoundFacts"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="188" pc="268438572" symbol="setExerciseFacts"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="189" pc="268438576" symbol="setExerciseFacts"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="190" pc="268438646" symbol="setExerciseFacts"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="191" pc="268438712" symbol="setExerciseFacts"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="194" pc="268438747" symbol="getTimeRemainingFormatted"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="195" pc="268438751" symbol="getTimeRemainingFormatted"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="196" pc="268438777" symbol="getTimeRemainingFormatted"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="197" pc="268438794" symbol="getTimeRemainingFormatted"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="200" pc="268438835" symbol="clearView"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="201" pc="268438839" symbol="clearView"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="202" pc="268438876" symbol="clearView"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="203" pc="268438913" symbol="clearView"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="204" pc="268438950" symbol="clearView"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="207" pc="268438988" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="208" pc="268438992" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="209" pc="268439021" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="212" pc="268439099" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="213" pc="268439109" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="214" pc="268439126" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="217" pc="268439156" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="220" pc="268439186" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="222" pc="268439199" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="225" pc="268439248" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="226" pc="268439258" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="227" pc="268439275" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="229" pc="268439305" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="231" pc="268439335" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerView.mc" lineNum="233" pc="268439348" symbol="getBitmapInfo"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerMenuDelegate.mc" lineNum="6" pc="268439398" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerMenuDelegate.mc" lineNum="7" pc="268439402" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerMenuDelegate.mc" lineNum="10" pc="268439421" symbol="onMenuItem"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerMenuDelegate.mc" lineNum="11" pc="268439425" symbol="onMenuItem"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerMenuDelegate.mc" lineNum="12" pc="268439436" symbol="onMenuItem"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerMenuDelegate.mc" lineNum="14" pc="268439471" symbol="onMenuItem"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="10" pc="268439496" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="11" pc="268439500" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="12" pc="268439518" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="13" pc="268439528" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="14" pc="268439538" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="18" pc="268439549" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="19" pc="268439553" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="20" pc="268439573" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="21" pc="268439584" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="22" pc="268439596" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="23" pc="268439614" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="26" pc="268439627" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="27" pc="268439645" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="28" pc="268439655" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="32" pc="268439674" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="33" pc="268439692" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="39" pc="268439725" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerDelegate.mc" lineNum="41" pc="268439756" symbol="onKey"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerApp.mc" lineNum="10" pc="268439760" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerApp.mc" lineNum="11" pc="268439764" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerApp.mc" lineNum="12" pc="268439782" symbol="initialize"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerApp.mc" lineNum="16" pc="268439813" symbol="onStart"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerApp.mc" lineNum="21" pc="268439818" symbol="onStop"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerApp.mc" lineNum="25" pc="268439823" symbol="getInitialView"/>
-<entry filename="/Users/hellebumbech/Documents/workspace/HitAppForerunner/source/HitAppForerunnerApp.mc" lineNum="26" pc="268439827" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="15" pc="268439889" symbol="initialize"/>
-<entry filename="Rez" lineNum="16" pc="268439893" symbol="initialize"/>
-<entry filename="Rez" lineNum="17" pc="268439911" symbol="initialize"/>
-<entry filename="Rez" lineNum="18" pc="268439963" symbol="initialize"/>
-<entry filename="Rez" lineNum="42" pc="268440016" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="44" pc="268440020" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="45" pc="268440211" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="46" pc="268440236" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="47" pc="268440288" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="48" pc="268440334" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="49" pc="268440482" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="50" pc="268440507" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="51" pc="268440559" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="52" pc="268440707" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="53" pc="268440732" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="54" pc="268440784" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="55" pc="268440932" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="56" pc="268440957" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="57" pc="268441009" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="58" pc="268441157" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="59" pc="268441182" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="60" pc="268441234" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="61" pc="268441382" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="62" pc="268441407" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="65" pc="268441459" symbol="MainLayout"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="13" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="14" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="15" pc="268435470" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="16" pc="268435480" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="17" pc="268435487" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="18" pc="268435511" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="20" pc="268435540" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="21" pc="268435550" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="22" pc="268435578" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="25" pc="268435591" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="37" pc="268435602" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="38" pc="268435606" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="39" pc="268435616" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="40" pc="268435626" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="44" pc="268435643" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="45" pc="268435647" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="46" pc="268435671" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="47" pc="268435678" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="48" pc="268435686" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="49" pc="268435706" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="50" pc="268435721" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="51" pc="268435741" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="53" pc="268435773" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="56" pc="268435777" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="57" pc="268435781" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="58" pc="268435812" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="59" pc="268435825" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="60" pc="268435856" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="61" pc="268435882" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="62" pc="268435890" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="63" pc="268435909" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="64" pc="268435909" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="65" pc="268435909" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="67" pc="268435917" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="69" pc="268435948" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="70" pc="268435974" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="71" pc="268435981" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="72" pc="268435997" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="75" pc="268436031" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="77" pc="268436051" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="78" pc="268436098" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="79" pc="268436132" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="81" pc="268436161" symbol="setRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="84" pc="268436213" symbol="resetString"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="85" pc="268436217" symbol="resetString"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="88" pc="268436249" symbol="nextSemiColon"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="89" pc="268436253" symbol="nextSemiColon"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="92" pc="268436280" symbol="nextSlash"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\Workout.mc" lineNum="93" pc="268436284" symbol="nextSlash"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="38" pc="268436311" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="40" pc="268436315" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="42" pc="268436333" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="43" pc="268436370" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="44" pc="268436395" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="45" pc="268436429" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="47" pc="268436463" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="48" pc="268436476" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="49" pc="268436489" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="50" pc="268436502" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="51" pc="268436515" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="52" pc="268436528" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="54" pc="268436541" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="55" pc="268436584" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="56" pc="268436627" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="57" pc="268436670" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="58" pc="268436713" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="59" pc="268436756" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="60" pc="268436799" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="64" pc="268436843" symbol="onLayout"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="65" pc="268436847" symbol="onLayout"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="71" pc="268436885" symbol="onShow"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="76" pc="268436890" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="78" pc="268436894" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="79" pc="268436914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="80" pc="268436927" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="81" pc="268436932" symbol="onUpdate"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="88" pc="268436972" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="89" pc="268436976" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="90" pc="268436988" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="91" pc="268436997" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="92" pc="268437006" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="93" pc="268437015" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="94" pc="268437024" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="95" pc="268437033" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="96" pc="268437042" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="97" pc="268437051" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="98" pc="268437060" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="99" pc="268437069" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="100" pc="268437078" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="101" pc="268437087" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="102" pc="268437096" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="103" pc="268437105" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="104" pc="268437114" symbol="onHide"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="107" pc="268437124" symbol="startWorkout"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="108" pc="268437128" symbol="startWorkout"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="109" pc="268437165" symbol="startWorkout"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="110" pc="268437177" symbol="startWorkout"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="111" pc="268437189" symbol="startWorkout"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="112" pc="268437210" symbol="startWorkout"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="113" pc="268437222" symbol="startWorkout"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="116" pc="268437235" symbol="startTimers"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="117" pc="268437239" symbol="startTimers"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="118" pc="268437280" symbol="startTimers"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="119" pc="268437321" symbol="startTimers"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="122" pc="268437332" symbol="stopTimers"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="123" pc="268437336" symbol="stopTimers"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="124" pc="268437348" symbol="stopTimers"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="125" pc="268437366" symbol="stopTimers"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="127" pc="268437387" symbol="stopTimers"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="130" pc="268437398" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="131" pc="268437402" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="132" pc="268437449" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="133" pc="268437461" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="135" pc="268437530" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="136" pc="268437574" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="137" pc="268437586" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="139" pc="268437655" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="140" pc="268437684" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="141" pc="268437696" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="144" pc="268437758" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="145" pc="268437840" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="146" pc="268437900" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="148" pc="268437937" symbol="updateCountdown"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="151" pc="268437950" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="152" pc="268437954" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="153" pc="268437973" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="154" pc="268437995" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="155" pc="268438012" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="157" pc="268438028" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="158" pc="268438045" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="160" pc="268438061" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="161" pc="268438078" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="163" pc="268438094" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="164" pc="268438111" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="166" pc="268438133" symbol="updateCatgif"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="169" pc="268438146" symbol="finish"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="170" pc="268438150" symbol="finish"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="172" pc="268438162" symbol="finish"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="173" pc="268438183" symbol="finish"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="174" pc="268438197" symbol="finish"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="177" pc="268438280" symbol="updateRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="178" pc="268438284" symbol="updateRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="179" pc="268438303" symbol="updateRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="180" pc="268438316" symbol="updateRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="181" pc="268438345" symbol="updateRound"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="185" pc="268438361" symbol="updateExercise"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="186" pc="268438365" symbol="updateExercise"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="187" pc="268438384" symbol="updateExercise"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="188" pc="268438428" symbol="updateExercise"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="192" pc="268438444" symbol="setRoundFacts"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="193" pc="268438448" symbol="setRoundFacts"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="194" pc="268438503" symbol="setRoundFacts"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="195" pc="268438554" symbol="setRoundFacts"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="196" pc="268438594" symbol="setRoundFacts"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="199" pc="268438607" symbol="setExerciseFacts"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="200" pc="268438611" symbol="setExerciseFacts"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="201" pc="268438681" symbol="setExerciseFacts"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="202" pc="268438747" symbol="setExerciseFacts"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="205" pc="268438782" symbol="getTimeRemainingFormatted"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="206" pc="268438786" symbol="getTimeRemainingFormatted"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="207" pc="268438812" symbol="getTimeRemainingFormatted"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="208" pc="268438829" symbol="getTimeRemainingFormatted"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="211" pc="268438870" symbol="clearView"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="212" pc="268438874" symbol="clearView"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="213" pc="268438911" symbol="clearView"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="214" pc="268438948" symbol="clearView"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="215" pc="268438985" symbol="clearView"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="218" pc="268439023" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="219" pc="268439027" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="220" pc="268439072" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="223" pc="268439104" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="224" pc="268439114" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="225" pc="268439131" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="228" pc="268439161" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="231" pc="268439191" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="233" pc="268439204" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="236" pc="268439253" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="237" pc="268439263" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="238" pc="268439280" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="240" pc="268439310" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="242" pc="268439340" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="244" pc="268439353" symbol="getBitmapInfo"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="249" pc="268439403" symbol="startRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="250" pc="268439407" symbol="startRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="251" pc="268439466" symbol="startRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="252" pc="268439548" symbol="startRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="254" pc="268439569" symbol="startRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="257" pc="268439573" symbol="stopRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="258" pc="268439577" symbol="stopRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="259" pc="268439633" symbol="stopRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="260" pc="268439651" symbol="stopRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="261" pc="268439656" symbol="stopRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="264" pc="268439677" symbol="stopRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="266" pc="268439695" symbol="stopRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerView.mc" lineNum="268" pc="268439707" symbol="stopRecording"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="8" pc="268439711" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="9" pc="268439715" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="10" pc="268439733" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="13" pc="268439744" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="14" pc="268439748" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="15" pc="268439772" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="16" pc="268439783" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="17" pc="268439804" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="18" pc="268439824" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="21" pc="268439926" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="22" pc="268439947" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerMenuDelegate.mc" lineNum="23" pc="268439975" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="9" pc="268440007" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="10" pc="268440011" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="11" pc="268440029" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="12" pc="268440039" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="16" pc="268440050" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="17" pc="268440054" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="18" pc="268440074" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="19" pc="268440085" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="20" pc="268440103" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="23" pc="268440124" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="24" pc="268440142" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="28" pc="268440161" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="29" pc="268440179" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="35" pc="268440212" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="37" pc="268440243" symbol="onKey"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="10" pc="268440247" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="11" pc="268440251" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="12" pc="268440269" symbol="initialize"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="16" pc="268440300" symbol="onStart"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="20" pc="268440305" symbol="onStop"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="21" pc="268440309" symbol="onStop"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="25" pc="268440330" symbol="getInitialView"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="26" pc="268440334" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="20" pc="268440396" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268440400" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268440418" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268440471" symbol="initialize"/>
+<entry filename="Rez" lineNum="23" pc="268440523" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268440576" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268440580" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268440598" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268440651" symbol="initialize"/>
+<entry filename="Rez" lineNum="58" pc="268440704" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="60" pc="268440708" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="61" pc="268440899" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="62" pc="268440924" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="63" pc="268440976" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="64" pc="268441022" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="65" pc="268441170" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="66" pc="268441195" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="67" pc="268441247" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="68" pc="268441395" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="69" pc="268441420" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="70" pc="268441472" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="71" pc="268441620" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="72" pc="268441645" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="73" pc="268441697" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="74" pc="268441845" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="75" pc="268441870" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="78" pc="268441922" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
-<entry id="65" object="true" symbol="Exercise"/>
-<entry field="true" id="50" symbol="donegif"/>
-<entry field="true" id="32" symbol="done"/>
+<entry field="true" id="33" symbol="ExitAppMenuLabel"/>
+<entry id="72" object="true" symbol="Exercise"/>
+<entry field="true" id="36" symbol="done"/>
 <entry id="12" object="true" symbol="HitAppForerunnerApp"/>
-<entry field="true" id="72" symbol="timeRemaining"/>
-<entry id="53" method="true" symbol="stopTimers"/>
+<entry field="true" id="79" symbol="timeRemaining"/>
+<entry id="58" method="true" symbol="stopTimers"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="49" symbol="catgifpause3"/>
-<entry field="true" id="48" symbol="catgifpause2"/>
-<entry id="14" symbol="countdownStopped"/>
-<entry field="true" id="47" symbol="catgifpause1"/>
-<entry id="59" method="true" symbol="setRoundFacts"/>
-<entry field="true" id="40" symbol="catYpos"/>
+<entry field="true" id="55" symbol="catgifpause3"/>
+<entry field="true" id="54" symbol="catgifpause2"/>
+<entry field="true" id="42" symbol="countdownStopped"/>
+<entry field="true" id="53" symbol="catgifpause1"/>
+<entry id="64" method="true" symbol="setRoundFacts"/>
+<entry field="true" id="46" symbol="catYpos"/>
 <entry id="8389097" method="true" symbol="onKey"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
-<entry id="64" object="true" symbol="Round"/>
-<entry id="28" object="true" symbol="MainMenu"/>
-<entry field="true" id="18" symbol="MotivatorCat"/>
-<entry id="68" method="true" symbol="nextSemiColon"/>
+<entry id="71" object="true" symbol="Round"/>
+<entry field="true" id="17" symbol="MotivatorCat"/>
+<entry id="75" method="true" symbol="nextSemiColon"/>
 <entry id="8388770" module="true" symbol="Strings"/>
-<entry id="15" symbol="workoutStarted"/>
-<entry field="true" id="76" symbol="pause"/>
+<entry id="14" symbol="workoutStarted"/>
+<entry field="true" id="83" symbol="pause"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8388640" symbol="Lang"/>
-<entry id="57" method="true" symbol="updateRound"/>
+<entry id="62" method="true" symbol="updateRound"/>
 <entry id="29" method="true" symbol="MainLayout"/>
-<entry field="true" id="22" symbol="MotivatorCat_4"/>
-<entry field="true" id="21" symbol="MotivatorCat_3"/>
-<entry field="true" id="20" symbol="MotivatorCat_2"/>
-<entry field="true" id="19" symbol="MotivatorCat_1"/>
+<entry field="true" id="21" symbol="MotivatorCat_4"/>
+<entry field="true" id="20" symbol="MotivatorCat_3"/>
+<entry field="true" id="19" symbol="MotivatorCat_2"/>
+<entry field="true" id="18" symbol="MotivatorCat_1"/>
+<entry id="69" method="true" symbol="startRecording"/>
 <entry id="8388769" module="true" symbol="Rez"/>
+<entry id="70" method="true" symbol="stopRecording"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry field="true" id="30" symbol="exerciseplan"/>
+<entry id="8388638" symbol="ActivityRecording"/>
+<entry field="true" id="37" symbol="exerciseplanTest"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="41" symbol="catCount"/>
-<entry field="true" id="33" symbol="AppName"/>
+<entry field="true" id="47" symbol="catCount"/>
+<entry field="true" id="38" symbol="AppName"/>
 <entry id="13" symbol="view"/>
-<entry id="67" method="true" symbol="resetString"/>
-<entry id="56" method="true" symbol="finish"/>
+<entry id="74" method="true" symbol="resetString"/>
+<entry id="61" method="true" symbol="finish"/>
 <entry id="10" object="true" symbol="HitAppForerunnerMenuDelegate"/>
-<entry field="true" id="70" symbol="exerciseName"/>
-<entry field="true" id="34" symbol="workout"/>
-<entry id="60" method="true" symbol="setExerciseFacts"/>
-<entry id="78" symbol="item_2"/>
-<entry id="77" symbol="item_1"/>
-<entry field="true" id="73" symbol="roundName"/>
-<entry field="true" id="27" symbol="LauncherIcon"/>
+<entry id="8388890" symbol="sport"/>
+<entry id="8388892" symbol="name"/>
+<entry field="true" id="77" symbol="exerciseName"/>
+<entry field="true" id="39" symbol="workout"/>
+<entry id="65" method="true" symbol="setExerciseFacts"/>
+<entry field="true" id="80" symbol="roundName"/>
+<entry field="true" id="26" symbol="LauncherIcon"/>
 <entry id="8388646" symbol="Timer"/>
-<entry field="true" id="26" symbol="Star"/>
-<entry id="62" method="true" symbol="clearView"/>
+<entry field="true" id="25" symbol="Star"/>
+<entry id="67" method="true" symbol="clearView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry field="true" id="42" symbol="catPauseCount"/>
-<entry id="63" method="true" symbol="getBitmapInfo"/>
+<entry field="true" id="48" symbol="catPauseCount"/>
+<entry id="68" method="true" symbol="getBitmapInfo"/>
 <entry id="8389065" symbol="locY"/>
 <entry id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
-<entry id="54" method="true" symbol="updateCountdown"/>
-<entry field="true" id="31" symbol="InitialText"/>
+<entry id="59" method="true" symbol="updateCountdown"/>
+<entry id="8388891" symbol="subSport"/>
+<entry field="true" id="34" symbol="InitialText"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry id="55" method="true" symbol="updateCatgif"/>
-<entry field="true" id="46" symbol="catgif4"/>
-<entry field="true" id="45" symbol="catgif3"/>
-<entry field="true" id="44" symbol="catgif2"/>
-<entry field="true" id="43" symbol="catgif1"/>
+<entry id="60" method="true" symbol="updateCatgif"/>
+<entry field="true" id="52" symbol="catgif4"/>
+<entry field="true" id="51" symbol="catgif3"/>
+<entry field="true" id="50" symbol="catgif2"/>
+<entry field="true" id="49" symbol="catgif1"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="61" method="true" symbol="getTimeRemainingFormatted"/>
+<entry id="66" method="true" symbol="getTimeRemainingFormatted"/>
 <entry id="8389348" symbol="font"/>
-<entry id="69" method="true" symbol="nextSlash"/>
+<entry field="true" id="31" symbol="exerciseplanTestQuick"/>
+<entry id="76" method="true" symbol="nextSlash"/>
 <entry id="8389347" symbol="color"/>
 <entry id="11" object="true" symbol="HitAppForerunnerDelegate"/>
+<entry field="true" id="35" symbol="SaveActivityMenuLabel"/>
+<entry field="true" id="8388651" symbol="session"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
-<entry id="66" method="true" symbol="setRound"/>
-<entry field="true" id="71" symbol="exerciseTime"/>
-<entry id="17" module="true" symbol="Layouts"/>
-<entry field="true" id="74" symbol="roundTime"/>
+<entry id="73" method="true" symbol="setRound"/>
+<entry field="true" id="32" symbol="ActivitySavedMenuTitle"/>
+<entry field="true" id="78" symbol="exerciseTime"/>
+<entry id="16" module="true" symbol="Layouts"/>
+<entry field="true" id="81" symbol="roundTime"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="39" symbol="catXpos"/>
-<entry field="true" id="25" symbol="MotivatorCatPause_3"/>
-<entry field="true" id="24" symbol="MotivatorCatPause_2"/>
-<entry field="true" id="23" symbol="MotivatorCatPause_1"/>
+<entry field="true" id="45" symbol="catXpos"/>
+<entry field="true" id="24" symbol="MotivatorCatPause_3"/>
+<entry field="true" id="23" symbol="MotivatorCatPause_2"/>
+<entry field="true" id="22" symbol="MotivatorCatPause_1"/>
 <entry id="9" object="true" symbol="HitAppForerunnerView"/>
-<entry field="true" id="35" symbol="countdown"/>
-<entry field="true" id="75" symbol="exercises"/>
-<entry id="52" method="true" symbol="startTimers"/>
+<entry field="true" id="40" symbol="countdown"/>
+<entry field="true" id="82" symbol="exercises"/>
+<entry id="57" method="true" symbol="startTimers"/>
 <entry id="8389346" symbol="text"/>
 <entry id="8389063" symbol="identifier"/>
-<entry field="true" id="36" symbol="catTimer"/>
-<entry id="16" module="true" symbol="Menus"/>
-<entry id="51" method="true" symbol="startWorkout"/>
-<entry id="58" method="true" symbol="updateExercise"/>
+<entry field="true" id="41" symbol="catTimer"/>
+<entry id="15" module="true" symbol="Menus"/>
+<entry id="27" object="true" symbol="ExitMenu"/>
+<entry id="56" method="true" symbol="startWorkout"/>
+<entry id="63" method="true" symbol="updateExercise"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
-<entry field="true" id="38" symbol="j"/>
-<entry field="true" id="37" symbol="i"/>
+<entry id="28" object="true" symbol="SavedMenu"/>
+<entry field="true" id="44" symbol="j"/>
+<entry field="true" id="43" symbol="i"/>
 <entry id="8389960" module="true" symbol="Workout"/>
+<entry id="85" symbol="ExitApp"/>
+<entry id="84" symbol="SaveActivity"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435540" name="i" stackId="4" startPc="268435511"/>
@@ -347,27 +381,25 @@
 <entry endPc="268436212" name="exercises" stackId="5" startPc="268435781"/>
 <entry endPc="268436212" name="roundName" stackId="4" startPc="268435781"/>
 <entry endPc="268436212" name="exerciseName" stackId="7" startPc="268435781"/>
-<entry endPc="268436885" name="plan" stackId="1" startPc="268436315"/>
-<entry endPc="268437006" name="bitmapInfo" stackId="2" startPc="268436937"/>
-<entry endPc="268437931" name="timeRemainingText" stackId="1" startPc="268437755"/>
-<entry endPc="268438571" name="timeText" stackId="1" startPc="268438413"/>
-<entry endPc="268438746" name="timeText" stackId="1" startPc="268438576"/>
-<entry endPc="268438834" name="minutes" stackId="2" startPc="268438751"/>
-<entry endPc="268438834" name="seconds" stackId="3" startPc="268438751"/>
-<entry endPc="268439245" name="pausecat" stackId="1" startPc="268439099"/>
-<entry endPc="268439397" name="catgif" stackId="2" startPc="268439248"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_initial" stackId="2" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_RoundTime" stackId="6" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_ExerciseName_fontHeight" stackId="11" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_ExerciseTime" stackId="12" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_WorkoutDone" stackId="8" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_WorkoutDone_fontHeight" stackId="9" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_RoundTime_fontHeight" stackId="7" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_RoundName" stackId="4" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_RoundName_fontHeight" stackId="5" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_initial_fontHeight" stackId="3" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_ExerciseTime_fontHeight" stackId="13" startPc="268440020"/>
-<entry endPc="268441526" name="rez_cmp_local_bitmap_ExerciseName" stackId="10" startPc="268440020"/>
+<entry endPc="268436842" name="plan" stackId="1" startPc="268436315"/>
+<entry endPc="268436971" name="bitmapInfo" stackId="2" startPc="268436894"/>
+<entry endPc="268437934" name="timeRemainingText" stackId="1" startPc="268437758"/>
+<entry endPc="268438606" name="timeText" stackId="1" startPc="268438448"/>
+<entry endPc="268438781" name="timeText" stackId="1" startPc="268438611"/>
+<entry endPc="268438869" name="minutes" stackId="2" startPc="268438786"/>
+<entry endPc="268438869" name="seconds" stackId="3" startPc="268438786"/>
+<entry endPc="268439250" name="pausecat" stackId="1" startPc="268439104"/>
+<entry endPc="268439402" name="catgif" stackId="2" startPc="268439253"/>
+<entry endPc="268441979" name="rez_cmp_local_bitmap_initial" stackId="2" startPc="268440708"/>
+<entry endPc="268441979" name="rez_cmp_local_bitmap_RoundTime" stackId="6" startPc="268440708"/>
+<entry endPc="268441979" name="rez_cmp_local_bitmap_ExerciseName_fontHeight" stackId="9" startPc="268440708"/>
+<entry endPc="268441979" name="rez_cmp_local_bitmap_ExerciseTime" stackId="10" startPc="268440708"/>
+<entry endPc="268441979" name="rez_cmp_local_bitmap_RoundTime_fontHeight" stackId="7" startPc="268440708"/>
+<entry endPc="268441979" name="rez_cmp_local_bitmap_RoundName" stackId="4" startPc="268440708"/>
+<entry endPc="268441979" name="rez_cmp_local_bitmap_RoundName_fontHeight" stackId="5" startPc="268440708"/>
+<entry endPc="268441979" name="rez_cmp_local_bitmap_initial_fontHeight" stackId="3" startPc="268440708"/>
+<entry endPc="268441979" name="rez_cmp_local_bitmap_ExerciseTime_fontHeight" stackId="11" startPc="268440708"/>
+<entry endPc="268441979" name="rez_cmp_local_bitmap_ExerciseName" stackId="8" startPc="268440708"/>
 </localVars>
 <annotations/>
 <functions>
@@ -459,7 +491,15 @@
 <functionEntry name="getBitmapInfo" parent="HitAppForerunnerView">
 <documentation/>
 </functionEntry>
+<functionEntry name="startRecording" parent="HitAppForerunnerView">
+<documentation/>
+</functionEntry>
+<functionEntry name="stopRecording" parent="HitAppForerunnerView">
+<param id="save"/>
+<documentation/>
+</functionEntry>
 <functionEntry name="initialize" parent="HitAppForerunnerMenuDelegate">
+<param id="view"/>
 <documentation/>
 </functionEntry>
 <functionEntry name="onMenuItem" parent="HitAppForerunnerMenuDelegate">
@@ -488,7 +528,10 @@
 <functionEntry name="getInitialView" parent="HitAppForerunnerApp">
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="MainMenu">
+<functionEntry name="initialize" parent="ExitMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SavedMenu">
 <documentation/>
 </functionEntry>
 <functionEntry name="MainLayout" parent="Layouts">
