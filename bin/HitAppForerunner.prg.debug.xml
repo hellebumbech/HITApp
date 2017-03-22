@@ -240,133 +240,131 @@
 <entry filename="Rez" lineNum="33" pc="268440580" symbol="initialize"/>
 <entry filename="Rez" lineNum="34" pc="268440598" symbol="initialize"/>
 <entry filename="Rez" lineNum="34" pc="268440651" symbol="initialize"/>
-<entry filename="Rez" lineNum="58" pc="268440704" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="60" pc="268440708" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="61" pc="268440899" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="62" pc="268440924" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="63" pc="268440976" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="64" pc="268441022" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="65" pc="268441170" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="66" pc="268441195" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="67" pc="268441247" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="68" pc="268441395" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="69" pc="268441420" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="70" pc="268441472" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="71" pc="268441620" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="72" pc="268441645" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="73" pc="268441697" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="74" pc="268441845" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="75" pc="268441870" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="78" pc="268441922" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="56" pc="268440704" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="58" pc="268440708" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="59" pc="268440899" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="60" pc="268440924" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="61" pc="268440976" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="62" pc="268441022" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="63" pc="268441170" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="64" pc="268441195" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="65" pc="268441247" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="66" pc="268441395" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="67" pc="268441420" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="68" pc="268441472" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="69" pc="268441620" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="70" pc="268441645" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="71" pc="268441697" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="72" pc="268441845" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="73" pc="268441870" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="76" pc="268441922" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
-<entry field="true" id="33" symbol="ExitAppMenuLabel"/>
-<entry id="72" object="true" symbol="Exercise"/>
-<entry field="true" id="36" symbol="done"/>
+<entry field="true" id="31" symbol="ExitAppMenuLabel"/>
+<entry id="70" object="true" symbol="Exercise"/>
+<entry field="true" id="34" symbol="done"/>
 <entry id="12" object="true" symbol="HitAppForerunnerApp"/>
-<entry field="true" id="79" symbol="timeRemaining"/>
-<entry id="58" method="true" symbol="stopTimers"/>
+<entry field="true" id="77" symbol="timeRemaining"/>
+<entry id="56" method="true" symbol="stopTimers"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="55" symbol="catgifpause3"/>
-<entry field="true" id="54" symbol="catgifpause2"/>
-<entry field="true" id="42" symbol="countdownStopped"/>
-<entry field="true" id="53" symbol="catgifpause1"/>
-<entry id="64" method="true" symbol="setRoundFacts"/>
-<entry field="true" id="46" symbol="catYpos"/>
+<entry field="true" id="53" symbol="catgifpause3"/>
+<entry field="true" id="52" symbol="catgifpause2"/>
+<entry field="true" id="40" symbol="countdownStopped"/>
+<entry field="true" id="51" symbol="catgifpause1"/>
+<entry id="62" method="true" symbol="setRoundFacts"/>
+<entry field="true" id="44" symbol="catYpos"/>
 <entry id="8389097" method="true" symbol="onKey"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
-<entry id="71" object="true" symbol="Round"/>
-<entry field="true" id="17" symbol="MotivatorCat"/>
-<entry id="75" method="true" symbol="nextSemiColon"/>
+<entry id="69" object="true" symbol="Round"/>
+<entry id="73" method="true" symbol="nextSemiColon"/>
 <entry id="8388770" module="true" symbol="Strings"/>
 <entry id="14" symbol="workoutStarted"/>
-<entry field="true" id="83" symbol="pause"/>
+<entry field="true" id="81" symbol="pause"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8388640" symbol="Lang"/>
-<entry id="62" method="true" symbol="updateRound"/>
-<entry id="29" method="true" symbol="MainLayout"/>
-<entry field="true" id="21" symbol="MotivatorCat_4"/>
-<entry field="true" id="20" symbol="MotivatorCat_3"/>
-<entry field="true" id="19" symbol="MotivatorCat_2"/>
-<entry field="true" id="18" symbol="MotivatorCat_1"/>
-<entry id="69" method="true" symbol="startRecording"/>
+<entry id="60" method="true" symbol="updateRound"/>
+<entry id="27" method="true" symbol="MainLayout"/>
+<entry field="true" id="20" symbol="MotivatorCat_4"/>
+<entry field="true" id="19" symbol="MotivatorCat_3"/>
+<entry field="true" id="18" symbol="MotivatorCat_2"/>
+<entry field="true" id="17" symbol="MotivatorCat_1"/>
+<entry id="67" method="true" symbol="startRecording"/>
 <entry id="8388769" module="true" symbol="Rez"/>
-<entry id="70" method="true" symbol="stopRecording"/>
+<entry id="68" method="true" symbol="stopRecording"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry field="true" id="30" symbol="exerciseplan"/>
+<entry field="true" id="28" symbol="exerciseplan"/>
 <entry id="8388638" symbol="ActivityRecording"/>
-<entry field="true" id="37" symbol="exerciseplanTest"/>
+<entry field="true" id="35" symbol="exerciseplanTest"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="47" symbol="catCount"/>
-<entry field="true" id="38" symbol="AppName"/>
+<entry field="true" id="45" symbol="catCount"/>
+<entry field="true" id="36" symbol="AppName"/>
 <entry id="13" symbol="view"/>
-<entry id="74" method="true" symbol="resetString"/>
-<entry id="61" method="true" symbol="finish"/>
+<entry id="72" method="true" symbol="resetString"/>
+<entry id="59" method="true" symbol="finish"/>
 <entry id="10" object="true" symbol="HitAppForerunnerMenuDelegate"/>
 <entry id="8388890" symbol="sport"/>
 <entry id="8388892" symbol="name"/>
-<entry field="true" id="77" symbol="exerciseName"/>
-<entry field="true" id="39" symbol="workout"/>
-<entry id="65" method="true" symbol="setExerciseFacts"/>
-<entry field="true" id="80" symbol="roundName"/>
-<entry field="true" id="26" symbol="LauncherIcon"/>
+<entry field="true" id="75" symbol="exerciseName"/>
+<entry field="true" id="37" symbol="workout"/>
+<entry id="63" method="true" symbol="setExerciseFacts"/>
+<entry field="true" id="78" symbol="roundName"/>
+<entry field="true" id="24" symbol="LauncherIcon"/>
 <entry id="8388646" symbol="Timer"/>
-<entry field="true" id="25" symbol="Star"/>
-<entry id="67" method="true" symbol="clearView"/>
+<entry id="65" method="true" symbol="clearView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry field="true" id="48" symbol="catPauseCount"/>
-<entry id="68" method="true" symbol="getBitmapInfo"/>
+<entry field="true" id="46" symbol="catPauseCount"/>
+<entry id="66" method="true" symbol="getBitmapInfo"/>
 <entry id="8389065" symbol="locY"/>
 <entry id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
-<entry id="59" method="true" symbol="updateCountdown"/>
+<entry id="57" method="true" symbol="updateCountdown"/>
 <entry id="8388891" symbol="subSport"/>
-<entry field="true" id="34" symbol="InitialText"/>
+<entry field="true" id="32" symbol="InitialText"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry id="60" method="true" symbol="updateCatgif"/>
-<entry field="true" id="52" symbol="catgif4"/>
-<entry field="true" id="51" symbol="catgif3"/>
-<entry field="true" id="50" symbol="catgif2"/>
-<entry field="true" id="49" symbol="catgif1"/>
+<entry id="58" method="true" symbol="updateCatgif"/>
+<entry field="true" id="50" symbol="catgif4"/>
+<entry field="true" id="49" symbol="catgif3"/>
+<entry field="true" id="48" symbol="catgif2"/>
+<entry field="true" id="47" symbol="catgif1"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="66" method="true" symbol="getTimeRemainingFormatted"/>
+<entry id="64" method="true" symbol="getTimeRemainingFormatted"/>
 <entry id="8389348" symbol="font"/>
-<entry field="true" id="31" symbol="exerciseplanTestQuick"/>
-<entry id="76" method="true" symbol="nextSlash"/>
+<entry field="true" id="29" symbol="exerciseplanTestQuick"/>
+<entry id="74" method="true" symbol="nextSlash"/>
 <entry id="8389347" symbol="color"/>
 <entry id="11" object="true" symbol="HitAppForerunnerDelegate"/>
-<entry field="true" id="35" symbol="SaveActivityMenuLabel"/>
+<entry field="true" id="33" symbol="SaveActivityMenuLabel"/>
 <entry field="true" id="8388651" symbol="session"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
-<entry id="73" method="true" symbol="setRound"/>
-<entry field="true" id="32" symbol="ActivitySavedMenuTitle"/>
-<entry field="true" id="78" symbol="exerciseTime"/>
+<entry id="71" method="true" symbol="setRound"/>
+<entry field="true" id="30" symbol="ActivitySavedMenuTitle"/>
+<entry field="true" id="76" symbol="exerciseTime"/>
 <entry id="16" module="true" symbol="Layouts"/>
-<entry field="true" id="81" symbol="roundTime"/>
+<entry field="true" id="79" symbol="roundTime"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="45" symbol="catXpos"/>
-<entry field="true" id="24" symbol="MotivatorCatPause_3"/>
-<entry field="true" id="23" symbol="MotivatorCatPause_2"/>
-<entry field="true" id="22" symbol="MotivatorCatPause_1"/>
+<entry field="true" id="43" symbol="catXpos"/>
+<entry field="true" id="23" symbol="MotivatorCatPause_3"/>
+<entry field="true" id="22" symbol="MotivatorCatPause_2"/>
+<entry field="true" id="21" symbol="MotivatorCatPause_1"/>
 <entry id="9" object="true" symbol="HitAppForerunnerView"/>
-<entry field="true" id="40" symbol="countdown"/>
-<entry field="true" id="82" symbol="exercises"/>
-<entry id="57" method="true" symbol="startTimers"/>
+<entry field="true" id="38" symbol="countdown"/>
+<entry field="true" id="80" symbol="exercises"/>
+<entry id="55" method="true" symbol="startTimers"/>
 <entry id="8389346" symbol="text"/>
 <entry id="8389063" symbol="identifier"/>
-<entry field="true" id="41" symbol="catTimer"/>
+<entry field="true" id="39" symbol="catTimer"/>
 <entry id="15" module="true" symbol="Menus"/>
-<entry id="27" object="true" symbol="ExitMenu"/>
-<entry id="56" method="true" symbol="startWorkout"/>
-<entry id="63" method="true" symbol="updateExercise"/>
+<entry id="25" object="true" symbol="ExitMenu"/>
+<entry id="54" method="true" symbol="startWorkout"/>
+<entry id="61" method="true" symbol="updateExercise"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
-<entry id="28" object="true" symbol="SavedMenu"/>
-<entry field="true" id="44" symbol="j"/>
-<entry field="true" id="43" symbol="i"/>
+<entry id="26" object="true" symbol="SavedMenu"/>
+<entry field="true" id="42" symbol="j"/>
+<entry field="true" id="41" symbol="i"/>
 <entry id="8389960" module="true" symbol="Workout"/>
-<entry id="85" symbol="ExitApp"/>
-<entry id="84" symbol="SaveActivity"/>
+<entry id="83" symbol="ExitApp"/>
+<entry id="82" symbol="SaveActivity"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435540" name="i" stackId="4" startPc="268435511"/>

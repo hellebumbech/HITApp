@@ -1,6 +1,5 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="ico_v2_40.gif"/>
-	<bitmap id="MotivatorCat" filename="motivatorcat.gif" />
 	<bitmap id="MotivatorCat_1" filename="motivatorcat_1.gif" />
 	<bitmap id="MotivatorCat_2" filename="motivatorcat_2.gif" />
 	<bitmap id="MotivatorCat_3" filename="motivatorcat_3.gif" />
@@ -8,5 +7,4 @@
 	<bitmap id="MotivatorCatPause_1" filename="motivatorcatpause_1.gif" />
 	<bitmap id="MotivatorCatPause_2" filename="motivatorcatpause_2.gif" />
 	<bitmap id="MotivatorCatPause_3" filename="motivatorcatpause_3.gif" />
-	<bitmap id="Star" filename="star.gif" />
 </drawables>
