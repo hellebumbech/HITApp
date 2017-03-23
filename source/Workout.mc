@@ -37,7 +37,7 @@ class Exercise {
 	function initialize(exerciseName, exerciseTime) {
 		me.exerciseName = exerciseName;
 		me.exerciseTime = exerciseTime;
-		me.timeRemaining = exerciseTime * 60;
+		me.timeRemaining = exerciseTime;
 	}	
 }
 

@@ -128,11 +128,14 @@ class HitAppForerunnerView extends Ui.View {
 	}
     
     function updateCountdown() {
+    	Sys.println("i is: " + i + " and j is: " + j);
+    	Sys.println("workout pause exercise size: " + workout[1].exercises.size());
 	    if(workout[i].exercises[j].timeRemaining == 0) { // current exercise is done - start the next
 	        updateExercise();
 	        Attn.vibrate([new Attn.VibeProfile(100, 200)]);
 	    }
     	if(j == workout[i].exercises.size()) { // last exercise in round has ended - start new round
+    		Sys.println("round is getting updated");
     		updateRound();
     		Attn.vibrate([new Attn.VibeProfile(100, 200)]);
     	}
@@ -141,6 +144,7 @@ class HitAppForerunnerView extends Ui.View {
 	        finish();
 	    }
 	    else if(workout[i].exercises[j].timeRemaining > 0) { // current exercise is still ongoing - just update countdown
+	    	Sys.println("Time remaining: " + workout[i].exercises[j].timeRemaining);
 	    	workout[i].exercises[j].timeRemaining = workout[i].exercises[j].timeRemaining - 1;
 	    	var timeRemainingText = getTimeRemainingFormatted(workout[i].exercises[j].timeRemaining.toNumber());
 	    	View.findDrawableById("ExerciseTime").setText(timeRemainingText);
@@ -168,7 +172,6 @@ class HitAppForerunnerView extends Ui.View {
     
     function finish() {
 	    clearView();
-	    //View.findDrawableById("WorkoutDone").setText(Rez.Strings.done);
 	    Attn.playTone(2); // stop tone
 	    stopRecording(true);
 	    pushView(new Rez.Menus.ExitMenu(), new HitAppForerunnerMenuDelegate(me), Ui.SLIDE_UP);
@@ -191,14 +194,18 @@ class HitAppForerunnerView extends Ui.View {
     
     function setRoundFacts() {
     	View.findDrawableById("RoundName").setText(workout[i].roundName);
-    	var timeText = getTimeRemainingFormatted((workout[i].roundTime * 60).toNumber());
+    	var time = (workout[i].roundTime).toNumber();
+    	var timeText = getTimeRemainingFormatted(time);
+    	Sys.println("time remaining: " + timeText);
 	    View.findDrawableById("RoundTime").setText(timeText + " min");
 	    setExerciseFacts();
     }
     
     function setExerciseFacts() {
     	View.findDrawableById("ExerciseName").setText(workout[i].exercises[j].exerciseName);
-    	var timeText = getTimeRemainingFormatted((workout[i].exercises[j].exerciseTime * 60).toNumber());
+    	var time = (workout[i].exercises[j].exerciseTime).toNumber();
+    	var timeText = getTimeRemainingFormatted(time);
+    	Sys.println("time remaining: " + timeText);
     	View.findDrawableById("ExerciseTime").setText(timeText);
     }
     
@@ -216,7 +223,7 @@ class HitAppForerunnerView extends Ui.View {
     }
     
     function getBitmapInfo() {
-    	if(i == workout.size() || i == null) { // workout is done
+    	if(i == null || i == workout.size()) { // workout is done
         	return false;
         }
         else if(workout[i].pause) { // show pause cat

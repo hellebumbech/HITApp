@@ -2,9 +2,8 @@
     <string id="AppName">HIT</string>
     <string id="InitialText">Start workout</string>
     <string id="done">Workout done!</string>
-    <string id="exerciseplan">Warm up;Løb;0.25;Jacks;0.25;Ski;0.25;Sjip;0.25;Twist;0.25;Løb;0.25;Jacks;0.25;Ski;0.25;Sjip;0.25;Twist;0.25;Løb;0.25;Jacks;0.25;Ski;0.25;Sjip;0.25;Twist;0.25;Løb;0.25;Jacks;0.25;Ski;0.25;Sjip;0.25;Twist;0.25;Squat;0.75;Lunges;0.75;Mountain climb;0.5/Pause;Drik vand;1;Bounce;0.167/Puls;Burpees;0.333;Bounce;0.167;Mountain climb;0.333;Bounce;0.167;Jumping Jacks;0.333;Bounce;0.167;Englehop;0.333;Bounce;0.167;Froggers;0.333;Bounce;0.167;Burpees;0.333;Bounce;0.167;Mountain climb;0.333;Bounce;0.167;Jumping Jacks;0.333;Bounce;0.167;Englehop;0.333;Bounce;0.167;Froggers;0.333;Bounce;0.167/Pause;Drik vand;1;Find måtte;0.5/Styrke;Pushups;0.5;Getups;0.5;Air squat;0.5;Lunges H;0.5;Lunges V;0.5;Pushups;0.5;Getups;0.5;Air squat;0.5;Lunges H;0.5;Lunges V;0.5/Pause;Drik vand;1/Mave og ryg;Russian Twist;1;Cykling;1;Ryghævninger;1;Benløft;1;Pulse;1;Kryds;1;Sideplanke;1;Sideplanke;1/Stræk ud;Stræk ud;5/</string>
-    <string id="exerciseplanTest">Warm up;Løb;0.25;Jacks;0.25;Ski;0.25;Sjip;0.25;Twist;0.25/</string>
-    <string id="exerciseplanTestQuick">Warm up;Løb;0.05/</string>
+    <string id="exerciseplan">Warm up;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Squat;45;Lunges;45;Mountain climb;30/Pause;Drik vand;60;Bounce;10/Puls;Burpees;20;Bounce;10;Mountain climb;20;Bounce;10;Jumping Jacks;20;Bounce;10;Englehop;20;Bounce;10;Froggers;20;Bounce;10;Burpees;20;Bounce;10;Mountain climb;20;Bounce;10;Jumping Jacks;20;Bounce;10;Englehop;20;Bounce;10;Froggers;20;Bounce;10/Pause;Drik vand;60;Find måtte;30/Styrke;Pushups;30;Getups;30;Air squat;30;Lunges H;30;Lunges V;30;Pushups;30;Getups;30;Air squat;30;Lunges H;30;Lunges V;30/Pause;Drik vand;1/Mave og ryg;Russian Twist;60;Cykling;60;Ryghævninger;60;Benløft;60;Pulse;60;Kryds;60;Sideplanke;60;Sideplanke;1/Stræk ud;Stræk ud;5/</string>
+    <string id="exerciseplanTestQuick">Warm up;Løb;5/Pause;Drik vand;5;Bounce;10/Puls;Squat;5;Lunges;5/</string>
     <string id="SaveActivityMenuLabel">Save</string>
     <string id="ExitAppMenuLabel">Exit</string>
     <string id="ActivitySavedMenuTitle">Activity saved!</string>
