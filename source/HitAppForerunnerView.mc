@@ -17,6 +17,8 @@ class HitAppForerunnerView extends Ui.View {
 	var catTimer; // timer to animate cat
 	
 	var countdownStopped = false;
+	var workoutStarted = false;
+	var workoutFinished = false;
 	
 	// changeable values
 	var i; // to hold roundnumber
@@ -34,23 +36,25 @@ class HitAppForerunnerView extends Ui.View {
 	var catgifpause1;
 	var catgifpause2;
 	var catgifpause3;
+	var donegif;
 
     function initialize() {
 	    
         View.initialize();
         
-        var plan = Ui.loadResource(Rez.Strings.exerciseplan);
-        workout = Workout.initialize(plan);
         countdown = new Timer.Timer();
         catTimer = new Timer.Timer();
         
         i = 0;
         j = 0;
+        
+        // Variables used for catgifs
         catXpos = 220;
         catYpos = 35;
         catCount = 1;
         catPauseCount = 1;
         
+       	// Catgifs
        	catgif1 = Ui.loadResource(Rez.Drawables.MotivatorCat_1);
         catgif2 = Ui.loadResource(Rez.Drawables.MotivatorCat_2);
         catgif3 = Ui.loadResource(Rez.Drawables.MotivatorCat_3);
@@ -58,6 +62,14 @@ class HitAppForerunnerView extends Ui.View {
         catgifpause1 = Ui.loadResource(Rez.Drawables.MotivatorCatPause_1);
         catgifpause2 = Ui.loadResource(Rez.Drawables.MotivatorCatPause_2);
         catgifpause3 = Ui.loadResource(Rez.Drawables.MotivatorCatPause_3);
+        
+        // gif for last view
+        donegif = Ui.loadResource(Rez.Drawables.Star);
+        
+        //var plan1 = Ui.loadResource(Rez.Strings.exerciseplan);
+       // var plan2 = Ui.loadResource(Rez.Strings.exerciseplanTestQuick);
+        //workout = Workout.initialize(plan1);
+        workout = [];
     }
 
     // Load your resources here
@@ -86,30 +98,16 @@ class HitAppForerunnerView extends Ui.View {
     // state of this View here. This includes freeing resources from
     // memory.
     function onHide() {
-    	stopTimers();
-    	me.countdown = null;
-    	me.catTimer = null;
-    	me.i = null;
-    	me.j = null;
-    	me.catXpos = null;
-		me.catYpos = null; 
-		me.catCount = null;
-		me.catPauseCount = null;
-		me.catgif1 = null;
-		me.catgif2 = null;
-		me.catgif3 = null;
-		me.catgif4 = null;
-		me.catgifpause1 = null;
-		me.catgifpause2 = null;
-		me.catgifpause3 = null;
     }
     
-    function startWorkout() {
+    function startWorkout(plan) {
+    	workout = Workout.initialize(plan);
     	View.findDrawableById("initial").setText("");
     	setRoundFacts();
     	startTimers();
     	Attn.playTone(1); // start tone
     	startRecording();
+    	workoutStarted = true;
     	requestUpdate();
     }
     
@@ -128,15 +126,13 @@ class HitAppForerunnerView extends Ui.View {
 	}
     
     function updateCountdown() {
-    	Sys.println("i is: " + i + " and j is: " + j);
-    	Sys.println("workout pause exercise size: " + workout[1].exercises.size());
 	    if(workout[i].exercises[j].timeRemaining == 0) { // current exercise is done - start the next
 	        updateExercise();
 	        Attn.vibrate([new Attn.VibeProfile(100, 200)]);
 	    }
     	if(j == workout[i].exercises.size()) { // last exercise in round has ended - start new round
-    		Sys.println("round is getting updated");
     		updateRound();
+    		setNewLapOnSession();
     		Attn.vibrate([new Attn.VibeProfile(100, 200)]);
     	}
     	if(i == workout.size()) { // last round has ended - finish
@@ -144,7 +140,6 @@ class HitAppForerunnerView extends Ui.View {
 	        finish();
 	    }
 	    else if(workout[i].exercises[j].timeRemaining > 0) { // current exercise is still ongoing - just update countdown
-	    	Sys.println("Time remaining: " + workout[i].exercises[j].timeRemaining);
 	    	workout[i].exercises[j].timeRemaining = workout[i].exercises[j].timeRemaining - 1;
 	    	var timeRemainingText = getTimeRemainingFormatted(workout[i].exercises[j].timeRemaining.toNumber());
 	    	View.findDrawableById("ExerciseTime").setText(timeRemainingText);
@@ -172,9 +167,12 @@ class HitAppForerunnerView extends Ui.View {
     
     function finish() {
 	    clearView();
+	    freeMemory();
 	    Attn.playTone(2); // stop tone
-	    stopRecording(true);
-	    pushView(new Rez.Menus.ExitMenu(), new HitAppForerunnerMenuDelegate(me), Ui.SLIDE_UP);
+	    stopRecording();
+	    View.findDrawableById("WorkoutDone").setText(Rez.Strings.done);
+	    workoutFinished = true;
+	    Ui.requestUpdate();
     }
 
     function updateRound() {
@@ -196,7 +194,6 @@ class HitAppForerunnerView extends Ui.View {
     	View.findDrawableById("RoundName").setText(workout[i].roundName);
     	var time = (workout[i].roundTime).toNumber();
     	var timeText = getTimeRemainingFormatted(time);
-    	Sys.println("time remaining: " + timeText);
 	    View.findDrawableById("RoundTime").setText(timeText + " min");
 	    setExerciseFacts();
     }
@@ -205,7 +202,6 @@ class HitAppForerunnerView extends Ui.View {
     	View.findDrawableById("ExerciseName").setText(workout[i].exercises[j].exerciseName);
     	var time = (workout[i].exercises[j].exerciseTime).toNumber();
     	var timeText = getTimeRemainingFormatted(time);
-    	Sys.println("time remaining: " + timeText);
     	View.findDrawableById("ExerciseTime").setText(timeText);
     }
     
@@ -223,8 +219,11 @@ class HitAppForerunnerView extends Ui.View {
     }
     
     function getBitmapInfo() {
-    	if(i == null || i == workout.size()) { // workout is done
-        	return false;
+    	if (!workoutStarted) {
+    		return false;
+    	}
+    	else if(i == null || workoutFinished) { // workout is done
+        	return [60, 70, donegif];
         }
         else if(workout[i].pause) { // show pause cat
         	var pausecat = catgifpause1;
@@ -261,17 +260,55 @@ class HitAppForerunnerView extends Ui.View {
         return true;
     }
     
-    function stopRecording(save) {
-	    if( Toybox has :ActivityRecording && (( session != null ) && session.isRecording())) {
+    function stopRecording() {
+	    if( Toybox has :ActivityRecording && session != null && session.isRecording()) {
 			session.stop();
-			if(save) {
-				session.save();
-			}
-			else {
-				session.discard();
-			}
-	        session = null;
 	    }
 	    return true;	
+    }
+    
+    function saveRecording() {
+    	if( Toybox has :ActivityRecording && session != null) {
+    		if(session.isRecording()) {
+    			session.stop();
+    		}
+    		session.save();
+    		session = null;
+    	}
+    	return true;
+    }
+    
+    function discardRecording() {
+    	if( Toybox has :ActivityRecording && session != null && session.isRecording() == false) {
+    		session.discard();
+    		session = null;
+    	}
+    	return true;
+    }
+    
+    function setNewLapOnSession() {
+    	if( Toybox has :ActivityRecording && session != null && session.isRecording() ) {
+    		session.addLap();
+    	}
+    	return true;
+    }
+    
+    function freeMemory() {
+    	stopTimers();
+    	me.countdown = null;
+    	me.catTimer = null;
+    	me.i = null;
+    	me.j = null;
+    	me.catXpos = null;
+		me.catYpos = null; 
+		me.catCount = null;
+		me.catPauseCount = null;
+		me.catgif1 = null;
+		me.catgif2 = null;
+		me.catgif3 = null;
+		me.catgif4 = null;
+		me.catgifpause1 = null;
+		me.catgifpause2 = null;
+		me.catgifpause3 = null;
     }
 }

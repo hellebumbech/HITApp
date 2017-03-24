@@ -7,4 +7,5 @@
 	<bitmap id="MotivatorCatPause_1" filename="motivatorcatpause_1.gif" />
 	<bitmap id="MotivatorCatPause_2" filename="motivatorcatpause_2.gif" />
 	<bitmap id="MotivatorCatPause_3" filename="motivatorcatpause_3.gif" />
+	<bitmap id="Star" filename="star.gif" />
 </drawables>

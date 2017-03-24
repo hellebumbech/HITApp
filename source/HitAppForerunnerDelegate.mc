@@ -4,36 +4,56 @@ using Toybox.System as Sys;
 class HitAppForerunnerDelegate extends Ui.BehaviorDelegate {
 
     hidden var view;
-	hidden var workoutStarted;
 	
     function initialize(view) {
         BehaviorDelegate.initialize();
         me.view = view;
-        me.workoutStarted = false;
     }
     
     // start/stop the application
     function onKey(evt) {
     	if(evt.getKey() == 4) {
-	    	if(workoutStarted) {
-	    		if(!view.countdownStopped) {
-		    		view.stopTimers();
-		    	}
-		    	else {
-		    		view.startTimers();
-		    		Ui.requestUpdate();
-		    	}
-	    	}
-	    	else {
-	    		view.startWorkout();
-	    		workoutStarted = true;
-	    		}
-	    	}
-	    	
+    		handleStartStopEvent();
+	    }
 	    else if(evt.getKey() == 5) {
-	    	// exit application
-	    	Ui.popView(Ui.SLIDE_IMMEDIATE);
+	    	handleBackEvent();	
 	    }
     	return true;
+    }
+    
+    function handleStartStopEvent() {
+    	if(view.workoutStarted && !view.workoutFinished) {
+    		handleStartStopOngoingActivity();
+    	}
+    	else if(view.workoutFinished) {
+    		showExitMenu();
+    	}
+    	else {
+    		beginWorkout();
+    	}
+    }
+    
+    function handleStartStopOngoingActivity() {
+    	if(!view.countdownStopped) {
+    		view.stopTimers();
+    	}
+    	else {
+    		view.startTimers();
+    		Ui.requestUpdate();
+    	}
+    }
+    
+    function showExitMenu() {
+    	pushView(new Rez.Menus.ExitMenu(), new HitAppForerunnerMenuDelegate(view), Ui.SLIDE_UP);
+    }
+    
+    function beginWorkout() {
+    	Ui.pushView(new Rez.Menus.WorkoutMenu(), new ExerciseplanMenuDelegate(view), Ui.SLIDE_UP);
+    	//view.startWorkout();
+    }
+    
+    function handleBackEvent() {
+    	view.stopTimers();
+    	showExitMenu();	    
     }
 }

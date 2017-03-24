@@ -1,0 +1,4 @@
+<menu id="WorkoutMenu" title="@Strings.ChooseWorkout">
+    <menu-item id="Plan1">@Strings.Plan1Label</menu-item>
+    <menu-item id="Plan2">@Strings.Plan2Label</menu-item>
+</menu>

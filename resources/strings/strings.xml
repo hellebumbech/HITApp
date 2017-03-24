@@ -2,9 +2,13 @@
     <string id="AppName">HIT</string>
     <string id="InitialText">Start workout</string>
     <string id="done">Workout done!</string>
-    <string id="exerciseplan">Warm up;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Squat;45;Lunges;45;Mountain climb;30/Pause;Drik vand;60;Bounce;10/Puls;Burpees;20;Bounce;10;Mountain climb;20;Bounce;10;Jumping Jacks;20;Bounce;10;Englehop;20;Bounce;10;Froggers;20;Bounce;10;Burpees;20;Bounce;10;Mountain climb;20;Bounce;10;Jumping Jacks;20;Bounce;10;Englehop;20;Bounce;10;Froggers;20;Bounce;10/Pause;Drik vand;60;Find måtte;30/Styrke;Pushups;30;Getups;30;Air squat;30;Lunges H;30;Lunges V;30;Pushups;30;Getups;30;Air squat;30;Lunges H;30;Lunges V;30/Pause;Drik vand;1/Mave og ryg;Russian Twist;60;Cykling;60;Ryghævninger;60;Benløft;60;Pulse;60;Kryds;60;Sideplanke;60;Sideplanke;1/Stræk ud;Stræk ud;5/</string>
-    <string id="exerciseplanTestQuick">Warm up;Løb;5/Pause;Drik vand;5;Bounce;10/Puls;Squat;5;Lunges;5/</string>
+    <string id="exerciseplan">Warm up;Run;15;Jacks;15;Skii;15;Jump rope;15;Twist;15;Run;15;Jacks;15;Skii;15;Jump rope;15;Twist;15;Run;15;Jacks;15;Skii;15;Jump rope;15;Twist;15;Run;15;Jacks;15;Skii;15;Jump rope;15;Twist;15;Squat;45;Lunges;45;Mountain climb;30/Pause;Drink water;60;Bounce;10/Cardio;Burpees;20;Bounce;10;Mountain climb;20;Bounce;10;Jumping Jacks;20;Bounce;10;Jump squats;20;Bounce;10;Froggers;20;Bounce;10;Burpees;20;Bounce;10;Mountain climb;20;Bounce;10;Jumping Jacks;20;Bounce;10;Jump squats;20;Bounce;10;Froggers;20;Bounce;10/Pause;Drink water;60;Find mat;30/Strength;Pushups;30;Getups;30;Air squat;30;Lunges R;30;Lunges L;30;Pushups;30;Getups;30;Air squat;30;Lunges R;30;Lunges L;30/Pause;Drink water;60/Core and back;Russian Twist;60;Cycling;60;Backlift;60;Leglift;60;Pulse;60;Cross;60;Sideplank;60;Sideplank;60/Stretch;Stretch;5/</string>
+    <string id="exerciseplanTestQuick">Warm up;Run;5/Pause;Drink water;5;Bounce;10/Cardio;Squat;5;Lunges;5/</string>
     <string id="SaveActivityMenuLabel">Save</string>
     <string id="ExitAppMenuLabel">Exit</string>
-    <string id="ActivitySavedMenuTitle">Activity saved!</string>
+    <string id="ActivitySavedMenuTitle">Workout saved!</string>
+    <string id="ChooseWorkout">Choose workout</string>
+    <string id="Plan1Label">Plan1</string>
+    <string id="Plan2Label">Plan2</string>
+    
 </strings>
