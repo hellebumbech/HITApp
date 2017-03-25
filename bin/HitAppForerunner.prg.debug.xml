@@ -250,9 +250,9 @@
 <entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="47" pc="268440582" symbol="showExitMenu"/>
 <entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="50" pc="268440671" symbol="beginWorkout"/>
 <entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="51" pc="268440675" symbol="beginWorkout"/>
-<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="55" pc="268440768" symbol="handleBackEvent"/>
-<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="56" pc="268440772" symbol="handleBackEvent"/>
-<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="57" pc="268440790" symbol="handleBackEvent"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="54" pc="268440768" symbol="handleBackEvent"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="55" pc="268440772" symbol="handleBackEvent"/>
+<entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerDelegate.mc" lineNum="56" pc="268440790" symbol="handleBackEvent"/>
 <entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="10" pc="268440803" symbol="initialize"/>
 <entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="11" pc="268440807" symbol="initialize"/>
 <entry filename="C:\\Users\\hba\\Documents\\HITApp\\source\\HitAppForerunnerApp.mc" lineNum="12" pc="268440825" symbol="initialize"/>
@@ -307,10 +307,10 @@
 <entry filename="Rez" lineNum="94" pc="268443044" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
-<entry field="true" id="38" symbol="ExitAppMenuLabel"/>
+<entry field="true" id="40" symbol="ExitAppMenuLabel"/>
 <entry id="85" object="true" symbol="Exercise"/>
 <entry field="true" id="65" symbol="donegif"/>
-<entry field="true" id="41" symbol="done"/>
+<entry field="true" id="44" symbol="done"/>
 <entry id="12" object="true" symbol="HitAppForerunnerApp"/>
 <entry field="true" id="92" symbol="timeRemaining"/>
 <entry id="68" method="true" symbol="stopTimers"/>
@@ -352,12 +352,12 @@
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="56" symbol="catCount"/>
 <entry field="true" id="45" symbol="AppName"/>
-<entry field="true" id="43" symbol="ChooseWorkout"/>
+<entry field="true" id="39" symbol="ChooseWorkout"/>
 <entry id="16" method="true" symbol="handleStartStopOngoingActivity"/>
 <entry id="14" symbol="view"/>
 <entry id="87" method="true" symbol="resetString"/>
 <entry id="71" method="true" symbol="finish"/>
-<entry field="true" id="44" symbol="Plan2Label"/>
+<entry field="true" id="41" symbol="Plan2Label"/>
 <entry id="10" object="true" symbol="HitAppForerunnerMenuDelegate"/>
 <entry id="8388890" symbol="sport"/>
 <entry id="8388892" symbol="name"/>
@@ -377,7 +377,7 @@
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="69" method="true" symbol="updateCountdown"/>
 <entry id="8388891" symbol="subSport"/>
-<entry field="true" id="39" symbol="InitialText"/>
+<entry field="true" id="42" symbol="InitialText"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="70" method="true" symbol="updateCatgif"/>
 <entry field="true" id="61" symbol="catgif4"/>
@@ -393,7 +393,7 @@
 <entry id="33" object="true" symbol="WorkoutMenu"/>
 <entry id="15" method="true" symbol="handleStartStopEvent"/>
 <entry id="11" object="true" symbol="HitAppForerunnerDelegate"/>
-<entry field="true" id="40" symbol="SaveActivityMenuLabel"/>
+<entry field="true" id="43" symbol="SaveActivityMenuLabel"/>
 <entry field="true" id="8388651" symbol="session"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
 <entry id="86" method="true" symbol="setRound"/>
@@ -411,7 +411,7 @@
 <entry id="9" object="true" symbol="HitAppForerunnerView"/>
 <entry field="true" id="47" symbol="countdown"/>
 <entry field="true" id="95" symbol="exercises"/>
-<entry field="true" id="42" symbol="Plan1Label"/>
+<entry field="true" id="38" symbol="Plan1Label"/>
 <entry id="67" method="true" symbol="startTimers"/>
 <entry id="8389346" symbol="text"/>
 <entry id="8389063" symbol="identifier"/>

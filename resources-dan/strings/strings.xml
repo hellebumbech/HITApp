@@ -1,4 +1,5 @@
 <strings>
+    <string id="AppName">HIT</string>
     <string id="InitialText">Start workout</string>
     <string id="done">Workout done!</string>
     <string id="exerciseplan">Warm up;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Løb;15;Jacks;15;Ski;15;Sjip;15;Twist;15;Squat;45;Lunges;45;Mountain climb;30/Pause;Drik vand;60;Bounce;10/Puls;Burpees;20;Bounce;10;Mountain climb;20;Bounce;10;Jumping Jacks;20;Bounce;10;Englehop;20;Bounce;10;Froggers;20;Bounce;10;Burpees;20;Bounce;10;Mountain climb;20;Bounce;10;Jumping Jacks;20;Bounce;10;Englehop;20;Bounce;10;Froggers;20;Bounce;10/Pause;Drik vand;60;Find måtte;30/Styrke;Pushups;30;Getups;30;Air squat;30;Lunges H;30;Lunges V;30;Pushups;30;Getups;30;Air squat;30;Lunges H;30;Lunges V;30/Pause;Drik vand;60/Mave og ryg;Russian Twist;60;Cykling;60;Ryghævninger;60;Benløft;60;Pulse;60;Kryds;60;Sideplanke;60;Sideplanke;60/Stræk ud;Stræk ud;5/</string>
@@ -6,4 +7,7 @@
     <string id="SaveActivityMenuLabel">Gem</string>
     <string id="ExitAppMenuLabel">Exit</string>
     <string id="ActivitySavedMenuTitle">Workout gemt!</string>
+    <string id="ChooseWorkout">Vælg program</string>
+    <string id="Plan1Label">Plan1</string>
+    <string id="Plan2Label">Plan2</string>
 </strings>

@@ -49,7 +49,6 @@ class HitAppForerunnerDelegate extends Ui.BehaviorDelegate {
     
     function beginWorkout() {
     	Ui.pushView(new Rez.Menus.WorkoutMenu(), new ExerciseplanMenuDelegate(view), Ui.SLIDE_UP);
-    	//view.startWorkout();
     }
     
     function handleBackEvent() {
